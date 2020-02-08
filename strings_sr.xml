@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бројеви у словима</string>
+    <string name="edit_hint">Унесите број...макс. 999.999.999</string>
+    <string name="image_desc">ovdje je slika</string>
+    <string name="text_cont">испишите број кликом на дугме испод!</string>
+    <string name="btn_1">испис</string>
+    <string name="btn_2">прочитајте</string>
+    <string name="no_1">један</string>
+    <string name="no_1a">једна</string>
+    <string name="no_2a">две</string>
+    <string name="no_2">два</string>
+    <string name="no_3">три</string>
+    <string name="no_4">четири</string>
+    <string name="no_5">пет</string>
+    <string name="no_6">шест</string>
+    <string name="no_7">седам</string>
+    <string name="no_8">осам</string>
+    <string name="no_9">девет</string>
+    <string name="no_10">десет</string>
+    <string name="no_11">једанаест</string>
+    <string name="no_12">дванаест</string>
+    <string name="no_13">тринаест</string>
+    <string name="no_14">четрнаест</string>
+    <string name="no_15">петнаест</string>
+    <string name="no_16">шеснаест</string>
+    <string name="no_17">седамнаест</string>
+    <string name="no_18">осамнаест</string>
+    <string name="no_19">деветнаест</string>
+    <string name="no_20">двадесет</string>
+    <string name="no_30">тридесет</string>
+    <string name="no_40">четрдесет</string>
+    <string name="no_50">педесет</string>
+    <string name="no_60">шездесет</string>
+    <string name="no_70">седамдесет</string>
+    <string name="no_80">осамдесет</string>
+    <string name="no_90">деведесет</string>
+    <string name="no_100">сто</string>
+    <string name="no_200">двестотине</string>
+    <string name="no_300">тристотине</string>
+    <string name="no_400">четиристотине</string>
+    <string name="no_500">петстотина</string>
+    <string name="no_600">шестстотина</string>
+    <string name="no_700">седамстотина</string>
+    <string name="no_800">осамстотина</string>
+    <string name="no_900">деветстотина</string>
+    <string name="no_1000">хиљада (e) </string>
+    <string name="no_1000000">милион (а) </string>
+    <string name="word_1">Не подржава овај језик</string>
+    <string name="word_2">Иницијализација није успела!</string>
+
+</resources>

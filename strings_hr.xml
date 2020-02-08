@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Broji slovima</string>
+    <string name="edit_hint">Unesi broj...maks. 999.999.999</string>
+    <string name="image_desc">ovdje je slika</string>
+    <string name="text_cont">Ispišite broj klikom na donji gumb!</string>
+    <string name="btn_1">ispiši</string>
+    <string name="btn_2">pročitaj</string>
+    <string name="no_1">jedan</string>
+    <string name="no_1a">jedna</string>
+    <string name="no_2a">dvije</string>
+    <string name="no_2">dva</string>
+    <string name="no_3">tri</string>
+    <string name="no_4">četiri</string>
+    <string name="no_5">pet</string>
+    <string name="no_6">šest</string>
+    <string name="no_7">sedam</string>
+    <string name="no_8">osam</string>
+    <string name="no_9">devet</string>
+    <string name="no_10">deset</string>
+    <string name="no_11">jedanaest</string>
+    <string name="no_12">dvanaest</string>
+    <string name="no_13">trinaest</string>
+    <string name="no_14">četrnaest</string>
+    <string name="no_15">petnaest</string>
+    <string name="no_16">šesnaest</string>
+    <string name="no_17">sedamnaest</string>
+    <string name="no_18">osamnaest</string>
+    <string name="no_19">devetnaest</string>
+    <string name="no_20">dvadeset</string>
+    <string name="no_30">trideset</string>
+    <string name="no_40">četrdeset</string>
+    <string name="no_50">pedeset</string>
+    <string name="no_60">šezdeset</string>
+    <string name="no_70">sedamdeset</string>
+    <string name="no_80">osamdeset</string>
+    <string name="no_90">devetdeset</string>
+    <string name="no_100">sto</string>
+    <string name="no_200">dvijestotine</string>
+    <string name="no_300">tristotine</string>
+    <string name="no_400">četiristotine</string>
+    <string name="no_500">petstotina</string>
+    <string name="no_600">šeststotina</string>
+    <string name="no_700">sedamstotina</string>
+    <string name="no_800">osamstotina</string>
+    <string name="no_900">devetstotina</string>
+    <string name="no_1000">tisuća (e) </string>
+    <string name="no_1000000">milion (a) </string>
+    <string name="word_1">Ne podržava ovaj jezik</string>
+    <string name="word_2">Inicijalizacija nije uspjela!</string>
+
+</resources>
